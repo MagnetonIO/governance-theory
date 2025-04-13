@@ -1,5 +1,3 @@
-# governance-thoery
-
 # Governance Theory
 
 ## Introduction
