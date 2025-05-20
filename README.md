@@ -1,5 +1,3 @@
-# Governance Theory
-
 ## Introduction
 
 The Governance Theory project is aimed at providing a comprehensive exploration of various governance models and theories, emphasizing their applications in different domains such as politics, business, and organizations. The vision of this project is to facilitate a better understanding of governance principles and their implications on decision-making processes.
